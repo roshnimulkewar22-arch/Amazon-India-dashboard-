@@ -39,3 +39,4 @@ Use **Download sample CSV** to get a ready template. Status values: Delivered, S
 
 ## Deploy on GitHub Pages
 Settings → Pages → Deploy from branch → main / (root).
+**live demo:** https://roshnimulkewar22-arch.github.io/Amazon-India-dashboard-/
